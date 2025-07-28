@@ -35,7 +35,7 @@ Fun Bot is a powerful and fun-to-use Discord bot that includes:
 ## 🧰 Tech Stack
 
 - 🐍 Python (primary)
-- ⚙️ FastAPI, Aiohttp, Pycord
+- ⚙️ FastAPI, Aiohttp
 - 🛠️ Git, REST APIs, JSON
 - ☁️ Linux, VPS hosting
 - 💬 Discord Bot Development
