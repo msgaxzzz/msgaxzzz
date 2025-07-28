@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm msgaxzzz!
 
-<!--
-**msgaxzzz/msgaxzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer who loves building creative, practical, and fun tools.  
+My main focus is developing bots, automation scripts, and backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🐍 Passionate about Python and automation
+- 🤖 Creator of **Fun Bot**, a multi-purpose Discord bot
+- 🔧 Always exploring new technologies and improving my projects
+- 🌍 I enjoy making tools that are simple, useful, and open source
+
+---
+
+## 📌 Projects
+
+### 🎉 Fun Bot — A Feature-Packed Discord Bot  
+Fun Bot is a powerful and fun-to-use Discord bot that includes:
+- 🔨 Commands (`/all-help`, `/`, `/chat`, etc.)
+
+- 
+> Making Discord communities more fun and easier to manage!
+
+---
+
+## 📊 GitHub Stats
+
+![msgaxzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=msgaxzzz&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msgaxzzz&layout=compact&theme=radical)
+
+---
+
+## 🧰 Tech Stack
+
+- 🐍 Python (primary)
+- ⚙️ FastAPI, Aiohttp, Pycord
+- 🛠️ Git, REST APIs, JSON
+- ☁️ Linux, VPS hosting
+- 💬 Discord Bot Development
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out.
